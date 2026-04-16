@@ -1,0 +1,6 @@
+name: AutoWaxSign
+version: 1.0.0
+main: me.miicro.autowaxsign.AutoWaxSign
+description: Waxes signs automatically so others can't edit them
+author: miicro
+api-version: "1.21.11"
