@@ -1,7 +1,5 @@
-# AutoWaxSign
+# EasyWax
 
-Waxes signs after placing them.
+A small plugin that allows a player to wax signs without using a honeycomb.
 
-Signs placed before this plugin was added get waxed when attempting to edit sign.
-
-OPs bypass restrictions.
+To wax the sign, the player should run `/waxit` and punch whichever sign they want to wax.
